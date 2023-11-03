@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/LuizAraujo2020/react-spa.git",
   "author": "Luiz Araujo <luizcarlos_bsb2006@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/preset-react": "^7.22.15"
+  }
 }
